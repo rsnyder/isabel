@@ -7,3 +7,14 @@ Juncture visual essays
 
 Frederick Stuart Church was an American artist during the 19th century. He was widely known for his illustrations of fairytales and anthropomorphized animals.  
 
+.ve-media https://data.artmuseum.princeton.edu/iiif/objects/3964
+
+**The Mermaid (1880)**
+
+Even though it was an etching, there are a few special things about this artwork. The first thing to notice is the mermaid riding the seahorse. It’s an interesting and creative concept of how a mermaid would ride on a seahorse, as if it was similar to riding on a regular horse. You can see how the mermaid wraps its tail with the seahorse’s tail for stability. The title “The Mermaid” is also written in the bottom-left corner of the etching. Noticed how the letters “T”, “R,” and “D” are drawn to match the water ripples.
+
+**Women and Beasts **
+
+Church have done many marvelous paintings with beauty women sitting or interacting with ferocious beasts. Two of his examples are Lady and the Tiger (1900) and Supremacy (1887). In each painting, there’s a woman in a white dress holding flowers. However, what they do to the flowers is different. In the Lady and the Tiger (1900), the woman creates a flower rope and wraps it around the tiger’s neck. In the Supremacy (1887), the woman is holding one flower with a long stem, while resting her arm against the lion’s neck. The two big cats in each painting are looking at the women, but one is sitting down while the other is walking. Both beasts are showing gentleness and compassion to their women.  
+
+.ve-media https://americanart.si.edu/artwork/lady-and-tiger-4814
