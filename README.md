@@ -1,6 +1,3 @@
-# essays
-Juncture visual essays
-
 .ve-header "The Wonderful World of Frederick Stuart Church" wc:Frederick_Stuart_Church_-_Girl_with_Rabbits_%28Smithsonian_American_Art_%29.jpg 
 
 Frederick Stuart Church was an American artist during the 19th century. He was widely known for his illustrations of fairytales and anthropomorphized animals.  
