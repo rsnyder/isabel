@@ -1,9 +1,7 @@
 # essays
 Juncture visual essays
 
-.ve-header "The Wonderful World of Frederick Stuart Church"
-
-.ve-media wc:Frederick_Stuart_Church_-_Girl_with_Rabbits_%28Smithsonian_American_Art_%29.jpg 
+.ve-header "The Wonderful World of Frederick Stuart Church" wc:Frederick_Stuart_Church_-_Girl_with_Rabbits_%28Smithsonian_American_Art_%29.jpg 
 
 Frederick Stuart Church was an American artist during the 19th century. He was widely known for his illustrations of fairytales and anthropomorphized animals.  
 
@@ -17,4 +15,4 @@ Even though it was an etching, there are a few special things about this artwork
 
 Church have done many marvelous paintings with beauty women sitting or interacting with ferocious beasts. Two of his examples are Lady and the Tiger (1900) and Supremacy (1887). In each painting, there’s a woman in a white dress holding flowers. However, what they do to the flowers is different. In the Lady and the Tiger (1900), the woman creates a flower rope and wraps it around the tiger’s neck. In the Supremacy (1887), the woman is holding one flower with a long stem, while resting her arm against the lion’s neck. The two big cats in each painting are looking at the women, but one is sitting down while the other is walking. Both beasts are showing gentleness and compassion to their women.  
 
-.ve-media https://americanart.si.edu/artwork/lady-and-tiger-4814
+.ve-media wcFrederick_Stuart_Church_-_Lady_and_the_Tiger_-_1929.6.15_-_Smithsonian_American_Art_Museum.jpg
