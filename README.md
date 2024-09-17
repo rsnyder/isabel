@@ -17,3 +17,4 @@ Church have done many marvelous paintings with beauty women sitting or interacti
 
 .ve-media wc:Frederick_Stuart_Church_-_Lady_and_the_Tiger_-_1929.6.15_-_Smithsonian_American_Art_Museum.jpg
 
+.ve-media wc:Frederick_Stuart_Church_-_Supremacy-1929.6.17_1_Smithsonian_American_Art_Museum.jpg
