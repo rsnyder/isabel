@@ -2,7 +2,7 @@
 
 Frederick Stuart Church was an American artist during the 19th century. He was widely known for his illustrations of fairytales and anthropomorphized animals.  
 
-.ve-media https://data.artmuseum.princeton.edu/iiif/objects/3964
+.ve-media wc:Frederick_Stuart_Church,_The_Mermaid,_c._1881,_NGA_148040.jpg
 
 **The Mermaid (1880)**
 
@@ -22,3 +22,8 @@ Church have done many marvelous paintings with beauty women sitting or interacti
 - [https://artvee.com/dl/the-mermaid/  ](https://artvee.com/dl/the-mermaid/)
 - [https://en.wikipedia.org/wiki/Frederick_Stuart_Church](https://en.wikipedia.org/wiki/Frederick_Stuart_Church)  
 - [https://www.nga.gov/collection/artist-info.5729.html](https://www.nga.gov/collection/artist-info.5729.html) 
+
+#Section Title
+.ve-media 
+
+**A Jolly Time**
