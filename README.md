@@ -29,4 +29,4 @@ Church have done many marvelous paintings with beauty women sitting or interacti
 
 **Taming of the Beast**
 
-Here present another painting of a woman and a lion. This time, the woman is playing a harp to "tame" the lion. 
+Here presents another painting of a woman and a lion. This time, the woman is playing a harp to "tame" the lion. The painting is in panoramic view so that viewers can see a wide-range of the landscape. 
