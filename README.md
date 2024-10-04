@@ -24,10 +24,9 @@ Church have done many marvelous paintings with beauty women sitting or interacti
 - [https://www.nga.gov/collection/artist-info.5729.html](https://www.nga.gov/collection/artist-info.5729.html) 
 
 #Annotate An Image
-.ve-mediahttps://ids.si.edu/ids/manifest/CHSDM-57183_01-000001
+.ve-media https://emuseum.colgate.edu/apis/iiif/presentation/v2/1-objects-1129/manifest
 
-![Alt text](https://ids.si.edu/ids/iiif/CHSDM-57183_01-000001/full/full/0/default.jpg)
- 
 
-**Birth of Santa Claus**
+**Taming of the Beast**
 
+Here present another painting of a woman and a lion. This time, the woman is playing a harp to "tame" the lion. 
